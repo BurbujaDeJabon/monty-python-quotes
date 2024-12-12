@@ -27,7 +27,11 @@ body {
     align-items: center;
     gap: 1rem;
     text-align: center
-    padding-inline: 1.325em;
+  
+}
+
+#quote {
+    padding-inline: 3.325em;
 }
 
 #emoji {
